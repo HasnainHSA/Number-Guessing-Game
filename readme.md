@@ -89,5 +89,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - Built with [Streamlit](https://streamlit.io/).
 - Inspired by modern UI trends and glassmorphism design.
 ```
-
-Save this as `README.md` in your project folder. Let me know if you need any changes!
